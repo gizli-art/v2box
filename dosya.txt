@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3cDNDaDhLbFpNT2V3NTB6dzZ0OHdwdGZ3Nmw5dzd2Q2pNT0taM1FPdzQ3Q3FNT2ZIMTB3Q0hsWk9jTzlhRGc9@193.164.155.19:360?type=tcp#jog-zvbsp5hf
+vless://ab520619-eb07-49b7-8fcf-0025936766c8@172.66.0.165:443?path=%2F&security=tls&alpn=h2&encryption=none&host=m.burgut77.ru&fp=chrome&type=ws&sni=m.burgut77.ru#%F0%9F%9A%80%20Marz%20%28jsb%29%20%5BVLESS%20-%20ws%5D
