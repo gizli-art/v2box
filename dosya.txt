@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NHZDdXlwMlQzc2l3cWNudzczRHV3bFV3NW9MdzdQQ3A4TzZ3cllsd29mRHBjTzl3cXJDZ2NPYWM4T0Rkc0tpdzVmRG5BPT0@188.130.206.107:53630?type=tcp#ss-kyyn8xgs
 vless://50269e63-f78a-43fc-86b0-71da42eb2ddc@156.255.123.111:443?security=tls&type=ws&headerType=&path=%2F&host=m.burgut77.ru&sni=m.burgut77.ru&fp=chrome&alpn=h2&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWtNUmNLQXdyMFZ3NUhDbkJMRG1DL0Nvd25EaE1LQUJzT1RFSEhDc01PSXdvWENydzRIdzVUQ2k4T3lJMFFwdzdnPQ@46.8.71.15:48462?type=tcp#weg-lpx5km0q
