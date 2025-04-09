@@ -1,1 +1,5 @@
+vless://f6183736-f36c-4879-af34-90b2299266c1@104.18.20.63:443?security=tls&type=ws&headerType=&path=%2F&host=m.burgut77.ru&sni=m.burgut77.ru&fp=chrome&alpn=h2&fragment=1-3%2C1-3%2Ctlshello&allowInsecure=1#2 
+vless://f6183736-f36c-4879-af34-90b2299266c1@104.18.10.65:443?security=tls&type=ws&headerType=&path=%2F&host=m.burgut77.ru&sni=m.burgut77.ru&fp=chrome&alpn=h2&allowInsecure=1#3 
+vless://f6183736-f36c-4879-af34-90b2299266c1@104.18.9.70:443?security=tls&type=ws&headerType=&path=%2F&host=m.burgut77.ru&sni=m.burgut77.ru&fp=chrome&alpn=h2&allowInsecure=1#4 
+vless://f6183736-f36c-4879-af34-90b2299266c1@104.18.20.63:443?security=tls&type=ws&headerType=&path=%2F&host=m.burgut77.ru&sni=m.burgut77.ru&fp=chrome&alpn=h2&allowInsecure=1#5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3Nm5DdDhPa1lNSzV3Nk5Pd3BvR0RzT1RNbUZ4YU1LYnc2SERxV3JEczMvRGhndkNoRi9DcmpVcFAyL0N1Y0tC@45.38.139.109:12762?type=tcp#wegh-u8cf39lj
