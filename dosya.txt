@@ -1,1 +1,2 @@
 vless://538d2602-a7b9-4fcd-9ae8-aa79bf9dc0e8@85.117.231.79:23849?type=tcp&security=none#d-es60c770
+vless://1f45e921-5122-4771-954e-cbc3dfc0d46d@104.245.243.38:443?security=tls&type=ws&headerType=&path=%2F&host=m.burgut77.ru&sni=m.burgut77.ru&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AA
