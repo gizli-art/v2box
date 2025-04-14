@@ -1,1 +1,1 @@
-vless://e49e0aa2-c83c-466e-9161-aaa1863a2f3e@45.156.27.86:49870?type=tcp&security=none#wegh1-1n71wlop
+vless://538d2602-a7b9-4fcd-9ae8-aa79bf9dc0e8@85.117.231.79:23849?type=tcp&security=none#d-es60c770
