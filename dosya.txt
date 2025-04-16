@@ -1,4 +1,3 @@
-vless://fb107538-bce9-4918-a43d-025d70ee48c1@85.117.231.5:46648?type=tcp&security=none#weg-kbrjipb8
 vless://1f45e921-5122-4771-954e-cbc3dfc0d46d@77.239.98.12:443?security=tls&type=ws&headerType=&path=%2F&host=m.burgut77.ru&sni=m.burgut77.ru&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AA 
 vless://1f45e921-5122-4771-954e-cbc3dfc0d46d@138.124.182.218:443?security=tls&type=ws&headerType=&path=%2F&host=m.burgut77.ru&sni=m.burgut77.ru&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0
-vless://219eb330-309c-4180-8ea9-4e2e28de7158@146.75.123.6:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=brushyouyour-name.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=brushyouyour-name.global.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AA
+vless://6b2c3a0b-77fc-418f-81f0-1061c8acaf73@45.152.84.7:12466?type=tcp&security=none#d-69anf8iz
