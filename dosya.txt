@@ -1,2 +1,2 @@
-vless://340e3946-f2b8-4efc-8404-5587473ef91b@92.118.169.26:443?security=tls&type=ws&headerType=&path=%2F&host=f.burgut77.ru&sni=f.burgut77.ru&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fragment=1-3%2C1-3%2Ctlshello&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA 
-vless://340e3946-f2b8-4efc-8404-5587473ef91b@72.146.248.18:433?security=tls&type=ws&headerType=&path=%2F&host=f.burgut77.ru&sni=f.burgut77.ru&fp=chrome&alpn=h3&fragment=1-3%2C1-3%2Ctlshello&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA2
+vless://590764a8-1718-44fc-a852-28f9f81466ea@23.185.0.57:80?mode=auto&path=%2F&security=&encryption=none&host=Agush06xcdn.com&type=xhttp#Fastly
+vless://340e3946-f2b8-4efc-8404-5587473ef91b@92.118.169.26:443?security=tls&type=ws&headerType=&path=%2F&host=f.burgut77.ru&sni=f.burgut77.ru&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fragment=1-3%2C1-3%2Ctlshello&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA
